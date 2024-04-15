@@ -14,6 +14,7 @@ public class StringOperators {
     System.out.println(s + (x + y + z));
     // Shorthand for Integer.toString():
     System.out.println("" + x);
+    System.out.println(Integer.toString(x));
   }
 }
 /* Output:
